@@ -32,14 +32,14 @@ Der Computer speichert eine Zufallszahl zwischen 1 und 100 als Geheimzahl, der B
 
 ### 1.3 Testfälle
 
-| TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
-| ---- | ------------ | ------- | ----------------- |
-| 1.1  |              |         |                   |
-| 1.2  |              |         |                   |
-| 1.3  |              |         |                   |
-| 1.4  |              |         |                   |
-| 1.5  |              |         |                   |
-| 1.6  |              |         |                   |
+| TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe                                                                                                                |
+| ---- | ------------ | ------- | -------------------------------------------------------------------------------------------------------------------------------- |
+| 1.1  | Console App  | Benutzer gibt eine Zahl ein und drückt enter                                         |Es zeigt an, ob die Zufallszahl höher oder niedriger |                                                                                                               ist.                                                 |
+| 1.2  | Console App  | Benutzer gibt true, false oder y,n ein und drückt enter                              |Das Spiel wird nach der Eingabe neu gestartet        | 
+| 1.3  | Console App  | Benutzer muss am Anfang sehen, was die Mindest- und Höchstzahlen sind.               |Das Spiel zeigt die maximalen und minimalen Zahlen an|
+| 1.4  | Console App  | Benutzer kann leicht durch die Benutzeroberfläche navigieren und versteht sie.       |Das Spiel is einfach zu verstehen                    |
+| 1.5  | Console App  | Benutzer errät die richtige Zahl und es zeigt an, wie viele Versuche es gedauert hat.|Es zeigt die Anzahl der Versuche am Ende             |
+| 1.6  | Console App  | Benutzer errät die richtige Nummer und es zeigt, welche Nummern verwendet wurden.    |Es zeigt die versuchten Zahlen am Ende.              |
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
