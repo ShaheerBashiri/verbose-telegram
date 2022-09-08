@@ -50,12 +50,12 @@ Der Computer speichert eine Zufallszahl zwischen 1 und 100 als Geheimzahl, der B
 | AP-№ | Frist   | Zuständig | Beschreibung         | geplante Zeit |
 | ---- | ------- | --------- | -------------------- | ------------- |
 | 1.A  | 1.Sept  | Mohammad  | User Input           | 30 min        |
-| 2.A  | 15.Sept | Mohammad  | Gestalten            | 1h            |    
-| 2.B  | 1.Sept  | Mohammad  | lernen zu Gestalten  | 1h            |     
-| 2.A  | 15.Sept | Mohammad  | Timer                | 1h            |     
-| 2.A  | 1.Sept  | Mohammad  | Gewonnenmechanismus  | 2h            |     
-| 2.A  | 8.Sept  | Mohammad  | Feedback             | 30min         |     
-| 2.A  | 15.Sept | Mohammad  | Erneut Spielen       | 1h            |     
+| 1.B  | 15.Sept | Mohammad  | Gestalten            | 1h            |    
+| 2.A  | 1.Sept  | Mohammad  | lernen zu Gestalten  | 1h            |     
+| 2.B  | 15.Sept | Mohammad  | Timer                | 1h            |     
+| 2.C  | 1.Sept  | Mohammad  | Gewonnenmechanismus  | 2h            |     
+| 2.D  | 8.Sept  | Mohammad  | Feedback             | 30min         |     
+| 3.A  | 15.Sept | Mohammad  | Erneut Spielen       | 1h            |     
 
 Total: 
 
@@ -71,8 +71,11 @@ Total:
 
 | AP-№ | Datum  | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ------ | --------- | ------------- | ----------------- |
-| 1.A  | 1.Sept |           |               |                   |
-| ...  |        |           |               |                   |
+| 1.A  | 1.Sept | Mohammad  |  30min        | 25min             |
+| 1.B  | 8.Sept | Mohammad  |  60min        | 60min             |
+| 3.A  | 8.Sept | Mohammad  |  60min        | 120min            |
+| 2.C  | 1.Sept | Mohammad  |  30min        | 25min             |
+| 2.A  | 8.Sept | Mohammad  |  60min        | 90min             |
 
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 
