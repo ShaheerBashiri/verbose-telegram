@@ -23,12 +23,12 @@ Dieser Teil des Codes war für mich am schwierigsten, weil wir damals noch nicht
 
 ## Verifikation
 
-✍️ Erklären Sie kurz und bündig, inwiefern die von Ihnen verwendeten Medien zeigen, was Sie gelernt haben.
+Ich habe den Gebrauch von while, else und if und die Wichtigkeit einer Projektdokumentation gelernt.
 
 # Reflektion zum Arbeitsprozess
 
-👍 Überlegen Sie sich jeweils etwas, was gut an Ihrer Arbeit lief; 
+Ich denke, ich habe ein ziemlich gutes Programm gemacht, obwohl ich alle gewünschten Funktionen korrekt implementieren konnte, es war eine Lernerfahrung und ich bin sicher, dass mein nächstes besser sein wird.
 
-👎 und etwas, was nicht gut lief.
+Ich konnte mich während der ganzen Arbeit nur schwer konzentrieren. Es gibt mehrere Gründe, aber der größte ist, nicht genug zu schlafen. Ich habe festgestellt, dass das Hören von Musik während des Unterrichts sehr geholfen hat, aber ich konnte immer noch nicht 100% konzentriert bleiben.
 
-**VBV**: ✍️ Formulieren Sie davon ausgehend einen *handelbaren* Verbesserungsvorschlag.
+**VBV**: Die beste Lösung, um es beim nächsten Mal besser zu machen, wäre, besser zu schlafen und vielleicht sogar zum Arzt zu gehen, um zu sehen, ob ich ADHS habe oder irgendetwas, das zu Konzentrationsschwäche beitragen kann.
