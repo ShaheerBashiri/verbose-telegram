@@ -19,6 +19,7 @@ namespace RNGguess
 
             while (playAgain)
             {
+                playAgain=false;
                 guess = 0;
                 guesses = 0;
                 response = "";
