@@ -3,10 +3,12 @@
 Mohammad Bashiri
 
 | Datum | Version | Zusammenfassung                                              |
-| ----- | ------- | ------------------------------------------------------------ |
-|       | 0.0.1   | ✍️ Jedes Mal, wenn Sie an dem Projekt arbeiten, fügen Sie hier eine neue Zeile ein und beschreiben in *einem* Satz, was Sie erreicht haben. |
-|       | ...     |                                                              |
-|       | 1.0.0   |                                                              |
+| ----- | ------- | -----------------------------------------------------------  |
+| 25.8  | 1       | An den Projekt-Dokumentation gearbeitet.                     |
+| 1.9   | 2       | Angefangen mit programmieren aber nicht weit gekommen.       |
+| 8.9   | 3       | Mit programmieren bin ich fast fertig geworden und habe      |
+|       |         | weiter an mein Projekt-Dokumentation.                        |
+| 15.9  | 4       | Ich habe mein Programm fertig gemacht.                       |
 
 ## 1 Informieren
 
