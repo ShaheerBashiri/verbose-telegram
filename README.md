@@ -28,24 +28,17 @@ Der Computer speichert eine Zufallszahl zwischen 1 und 100 als Geheimzahl, der B
 | 6    |  Kann           | Qualität   | Als Benutzer wäre es schön zu wissen, welche Nummern ich zuvor versucht habe.                            |
 
 
-✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
-
 ### 1.3 Testfälle
 
-| TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe                                                                                                                |
-| ---- | ------------ | ------- | -------------------------------------------------------------------------------------------------------------------------------- |
-| 1.1  | Console App  | Benutzer gibt eine Zahl ein und drückt enter                                         |Es zeigt an, ob die Zufallszahl höher oder niedriger |                                                                                                               ist.                                                 |
+| TC-№ | Ausgangslage | Eingabe                                                                              |Erwartete Ausgabe                                    |
+| ---- | ------------ | -------------------------------------------------------------------------------------|---------------------------------------------------- |
+| 1.1  | Console App  | Benutzer gibt eine Zahl ein und drückt enter                                         |Es zeigt an, ob die Zufallszahl höher oder niedriger |                                                                                                                 ist.                                                 |
 | 1.2  | Console App  | Benutzer gibt true, false oder y,n ein und drückt enter                              |Das Spiel wird nach der Eingabe neu gestartet        | 
 | 1.3  | Console App  | Benutzer muss am Anfang sehen, was die Mindest- und Höchstzahlen sind.               |Das Spiel zeigt die maximalen und minimalen Zahlen an|
 | 1.4  | Console App  | Benutzer kann leicht durch die Benutzeroberfläche navigieren und versteht sie.       |Das Spiel is einfach zu verstehen                    |
 | 1.5  | Console App  | Benutzer errät die richtige Zahl und es zeigt an, wie viele Versuche es gedauert hat.|Es zeigt die Anzahl der Versuche am Ende             |
 | 1.6  | Console App  | Benutzer errät die richtige Nummer und es zeigt, welche Nummern verwendet wurden.    |Es zeigt die versuchten Zahlen am Ende.              |
 
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
-
-### 1.4 Diagramme
-
-✍️ Hier können Sie PAPs, Use Case- und Gantt-Diagramme oder Ähnliches einfügen.
 
 ## 2 Planen
 
@@ -59,15 +52,12 @@ Der Computer speichert eine Zufallszahl zwischen 1 und 100 als Geheimzahl, der B
 | 2.D  | 8.Sept  | Mohammad  | Feedback             | 30min         |     
 | 3.A  | 15.Sept | Mohammad  | Erneut Spielen       | 1h            |     
 
-Total: 
+Total: 8h
 
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, auf die sich das Arbeitspaket bezieht, und `m` von `A` an nach oben buchstabiert. Beispiel: Das dritte Arbeitspaket, das die zweite User Story betrifft, hat also die Nummer `2.C`.
-
-✍️ Ein Arbeitspaket sollte etwa 45' für eine Person in Anspruch nehmen. Die totale Anzahl Arbeitspakete sollte etwa Folgendem entsprechen: `Anzahl R-Sitzungen` ╳ `Anzahl Gruppenmitglieder` ╳ `4`. Wenn Sie also zu dritt an einem Projekt arbeiten, für welches zwei R-Sitzungen geplant sind, sollten Sie auf `2` ╳ `3` ╳`4` = `24` Arbeitspakete kommen. Sollten Sie merken, dass Sie hier nicht genügend Arbeitspakte haben, denken Sie sich weitere "Kann"-User Stories für Kapitel 1.2 aus.
 
 ## 3 Entscheiden
 
-✍️ Dokumentieren Sie hier Ihre Entscheidungen und Annahmen, die Sie im Bezug auf Ihre User Stories und die Implementierung getroffen haben.
+Eine schwere Entscheidung für mich war die Auswahl verschiedener Farben für die Konsole. Ich wusste nicht, was gut aussehen würde, und entschied mich schließlich für Blau und Weiß, wie Windows Powershell.
 
 ## 4 Realisieren
 
@@ -79,7 +69,6 @@ Total:
 | 2.C  | 1.Sept | Mohammad  |  30min        | 25min             |
 | 2.A  | 8.Sept | Mohammad  |  60min        | 90min             |
 
-✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 
 ## 5 Kontrollieren
 
@@ -87,19 +76,15 @@ Total:
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
-| 1.1  |       |          |        |
-| ...  |       |          |        |
+| 1.1  | 22.9  |          |  ich   |
+| 1.2  | 22.9  |          |  ich   |
+| 1.3  | 22.9  |          |  ich   |
+| 1.4  | 22.9  |          |  ich   |
+| 1.5  | 22.9  |          |  ich   |
+| 1.6  | 22.9  |          |  ich   |
 
 ✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
 
-### 5.2 Exploratives Testen
-
-| BR-№ | Ausgangslage | Eingabe | Erwartete Ausgabe | Tatsächliche Ausgabe |
-| ---- | ------------ | ------- | ----------------- | -------------------- |
-| I    |              |         |                   |                      |
-| ...  |              |         |                   |                      |
-
-✍️ Verwenden Sie römische Ziffern für Ihre Bug Reports, also I, II, III, IV etc.
 
 ## 6 Auswerten
 
