@@ -76,14 +76,14 @@ Eine schwere Entscheidung für mich war die Auswahl verschiedener Farben für di
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
-| 1.1  | 22.9  |          |  ich   |
-| 1.2  | 22.9  |          |  ich   |
-| 1.3  | 22.9  |          |  ich   |
-| 1.4  | 22.9  |          |  ich   |
-| 1.5  | 22.9  |          |  ich   |
-| 1.6  | 22.9  |          |  ich   |
+| 1.1  | 22.9  | Zeigte ob meine zu hoch oder zu niedrig war.|  ich   |
+| 1.2  | 22.9  | Diese Funktion verlief nicht wie beabsichtigt. Es sagte danke fürs Spielen und das Programm wurde geschlossen.|  ich   |
+| 1.3  | 22.9  | Die maximalen und minimalen Zahlen wurden zu Beginn angezeigt. |  ich   |
+| 1.4  | 22.9  | Ich habe mich entschieden, hellere Farben für die Konsole auszuwählen, damit sie besser lesbar ist. |  ich   |
+| 1.5  | 22.9  | Es hat mir am Ende gezeigt, wie viele Versuche ich gebraucht habe, um die richtige Nummer zu bekommen. |  ich   |
+| 1.6  | 22.9  | Diese Funktion funktionierte nicht, weil ich nicht herausfinden konnte, wie ich sie zum Laufen bringen sollte. |  ich   |
 
-✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
+
 
 
 ## 6 Auswerten
