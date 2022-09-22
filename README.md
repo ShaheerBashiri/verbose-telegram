@@ -88,4 +88,4 @@ Eine schwere Entscheidung für mich war die Auswahl verschiedener Farben für di
 
 ## 6 Auswerten
 
-✍️ Fügen Sie hier eine Verknüpfung zu Ihrem Lern-Bericht ein.
+https://github.com/ShaheerBashiri/verbose-telegram/blob/main/Lernbericht.md
