@@ -19,7 +19,7 @@ Was mir am meisten geholfen hat:
 ![Capture](https://user-images.githubusercontent.com/111045708/191689722-c719b185-5654-425f-9b2b-022062c3b4a6.PNG)
 
 
-* Ein gut dokumentierter Code-Fetzen
+![Capture](https://user-images.githubusercontent.com/111045708/191691514-15a4c53d-8bfa-4420-b7c1-f375438bc158.PNG)
 * Ein Link zu einem *selbst aufgenommenen* youtube-Video oder `.gif`.
 
 ## Verifikation
